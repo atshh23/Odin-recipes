@@ -54,8 +54,13 @@ h4,h3{
     margin:15px 10px ;
     
 }
+.O{
+    color: red;
+    
+    font-size: 17px;
+}
 button{
-    font-size: 15px;
+    font-size: 19px;
     border: none;
     background-color: rgb(121, 163, 149);
     border-radius:30px;
