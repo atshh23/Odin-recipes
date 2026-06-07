@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color:rgb(44, 70, 62);
+    
+    
+    
+}
+a:hover{
+    
+    color: rgb(122, 76, 76);
+}
+ul{
+    list-style: none;
+}
