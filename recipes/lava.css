@@ -1,0 +1,92 @@
+body{
+    font-size: 22px;
+    width: 1000px;
+}
+p,ul{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 30px;
+}
+h2,h4,h1{
+    font-family: "Merriweather", Georgia, "Times New Roman", serif;
+}
+h2{
+    border-bottom: 2px dotted rgb(121, 163, 149);
+    display: inline;
+    
+   
+}
+.met{
+    color: rgb(166, 48, 48);
+}
+h4,h3{
+    color: rgb(77, 20, 20);
+
+}
+.ingre{
+    color: brown;
+}
+
+
+.hey{
+    font-size: 40px;
+    display: inline;
+    color: rgb(172, 12, 12);
+
+    
+    
+}
+.eich2{
+    margin: 20px 0px;
+    color: rgb(63, 9, 5);
+    word-spacing: .2px;
+    width: 1000px;
+    height: auto;
+  
+}
+
+.name{
+    font-size: 15px;
+    /* padding-left: 10px; */
+    margin:15px 10px ;
+    
+}
+button{
+    font-size: 15px;
+    border: none;
+    background-color: rgb(121, 163, 149);
+    border-radius:30px;
+    padding: 10px 20px;
+    color: aliceblue;
+
+}
+.tito h1{
+    margin: 0;
+}
+
+img{
+    border-radius: 60%;
+    height: 200px;
+
+    width:200px ;
+    
+}
+.title-img{
+    display:flex;
+    align-items: center;
+    gap: 20px;
+
+    
+}
+a{
+    text-decoration: none;
+    
+    font-size: 10px;
+}
+a h3{
+       color: rgb(133, 93, 43);
+}
+.ret:hover{
+    color: blanchedalmond;
+    background-color: rgb(33, 6, 6);
+    transition: .3s;
+}
